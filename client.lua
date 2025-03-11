@@ -1,4 +1,4 @@
-local identifier = "mfp-lb-amifat"
+local identifier = "mfp-lb-luodingo"
 
 CreateThread(function ()
     while GetResourceState("lb-phone") ~= "started" do
@@ -10,6 +10,7 @@ CreateThread(function ()
             identifier = identifier,
             name = Config.name,
             description = Config.description,
+            game = true,
             developer = "MFPSCRIPTS.com", -- please leave this, it would be fair for a free app (-;
             defaultApp = Config.defaultApp, 
             size = Config.size, 
