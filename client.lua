@@ -13,8 +13,9 @@ CreateThread(function ()
             game = true,
             developer = "MFPSCRIPTS.com", -- please leave this, it would be fair for a free app (-;
             defaultApp = Config.defaultApp, 
-            size = Config.size, 
-            price = Config.price, 
+            size = Config.size,
+            price = Config.price,
+            images = { "ui/assets/screenshots/screen01.png", "ui/assets/screenshots/screen02.png", "ui/assets/screenshots/screen03.png" },
             ui = GetCurrentResourceName() .. "/ui/index.html", 
             icon = "https://cfx-nui-" .. GetCurrentResourceName() .. "/ui/assets/icon.png"
         })
