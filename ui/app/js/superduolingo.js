@@ -13,12 +13,12 @@ const showNextItem = () => {
     makepayment(prefillData)
 }
 const makepayment = (prefillData) => {
-    const amount = 199;
+    const amount = 0;
     var options = {
         "key": "rzp_test_meh8xKYwSVWkw0",
-        "amount": amount * 100, // Example: 2000 paise = INR 20
+        "amount": amount * 0, // Example: 2000 paise = INR 20
         "name": "NEXUS-DUOLINGO",
-        "currency":"INR",
+        "currency":"EUR",
         "description": "description",
         "image": "../assets/images/duo-logo.png",
         "handler": function (response) {
