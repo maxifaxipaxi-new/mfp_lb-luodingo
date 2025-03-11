@@ -1,6 +1,8 @@
 # Luodingo
 THIS APP IS UNDER DEVELOPMENT
 
+### Use this App at your own risk. (Rockstar TOS)
+
 Based on https://github.com/Nexus-Experion/duolingo-clone/ . All credits goes to him! We just ported it to LB-Phone.
 
 ### Serverless function endpoints
