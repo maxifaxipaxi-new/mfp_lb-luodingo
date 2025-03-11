@@ -10,7 +10,7 @@ const sessionUserData = sessionStorage.getItem('user-info');
 if (sessionUserData) {
     const userInfo = JSON.parse(sessionUserData);
     gems = userInfo.gems;
-    heartCount = userInfo.hearts;
+    heartCount = 10; //userInfo.hearts;
     learnLang = userInfo.learnLang;
     console.log(heartCount + "heartss");
 }
