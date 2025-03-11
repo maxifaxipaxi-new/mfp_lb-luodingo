@@ -2,6 +2,9 @@
 THIS APP IS UNDER DEVELOPMENT
 Learning with Duolingo is fun, and research shows that it works! Now you can learn in FiveM with Luodingo, not an owl but a frog that is best friended with duo. With quick, bite-sized lessons, you’ll earn points and unlock new levels while gaining real-world communication skills. All possible in FiveM with the custom LB-Phone App: Luodingo!
 
+![banner](https://github.com/user-attachments/assets/a4420659-1170-4e1a-a5a0-809937a4afc8)
+
+
 ## Installation
 Just place this into your resources folders and make sure to start this after your LB-Phone. After this it should apear in your AppStore.
 
