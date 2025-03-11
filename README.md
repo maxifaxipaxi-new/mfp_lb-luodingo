@@ -3,7 +3,7 @@ THIS APP IS UNDER DEVELOPMENT
 
 ### Use this App at your own risk. (Rockstar TOS)
 
-Based on https://github.com/Nexus-Experion/duolingo-clone/ . All credits goes to him! We just ported it to LB-Phone.
+All credits goes to @Nexus-Experion for the base of this! We just ported it for LB-Phone & removed branding & unnecessary stuff to work better in FiveM.
 
 ### Serverless function endpoints
 The base URL for our Serverless function is https://duolingo-serverless-endpoint.vercel.app The endpoints are
