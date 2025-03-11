@@ -17,6 +17,8 @@ You can find our custom LB-Phone apps at https://lb.mfpscripts.com or at our dis
 ![screen02](https://github.com/user-attachments/assets/cce9261c-5d46-499c-8132-602171627a3d)
 ![screen01](https://github.com/user-attachments/assets/e9d32d58-a420-409a-be96-b73d3aeba577)
 
+## Error: Local Files are not working for you?
+Then edit ui/index.html:18 -> Change app/index.html to https://maxifaxipaxi-new.github.io/mfp_lb-luodingo/ui/app/index.html and delete the app folder in ui. Thats it and you are now using the hosted version hosted on github. (maybe less resmon, dont tested yet.)
 
 ## Backend
 ### Serverless function endpoints
