@@ -1,13 +1,10 @@
-# Luodingo
+# Luodingo - Learning App for LB-Phone
 THIS APP IS UNDER DEVELOPMENT
+## Installation
 
-### Use this App at your own risk. (Rockstar TOS)
-
-All credits goes to @Nexus-Experion for the base of this! We just ported it for LB-Phone & removed branding & unnecessary stuff to work better in FiveM.
-
+## Backend
 ### Serverless function endpoints
 The base URL for our Serverless function is https://duolingo-serverless-endpoint.vercel.app The endpoints are
-
     /api/faq
     /api/question
     /api/section-details
@@ -15,5 +12,10 @@ The base URL for our Serverless function is https://duolingo-serverless-endpoint
 
 last 3 endpoints need parameter 'lang' with allowed values 'ja','de','fr','es' 
 
-### Disclaimer
+## Disclaimer
 All the assets like lottie animations and question and answer JSON file data used here are taken from hours of network monitoring and manual inspection, from the original website. All the copyright for those assets goes to the respective website. Data will be saved on external servers and cannot be deleted.
+License from Nexus-Experion-Team so we could modify & port it: https://github.com/Nexus-Experion/duolingo-clone/blob/master/license.md
+
+All credits goes to @Nexus-Experion for the base of this! We just ported it for LB-Phone & removed branding & unnecessary stuff to work better in FiveM. Use this App at your own risk (Rockstar TOS), maybe we forgot some branding
+
+## Special thanks goes to @Nexus-Experion!
