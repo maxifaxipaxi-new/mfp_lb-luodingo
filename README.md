@@ -33,6 +33,9 @@ The base URL for our Serverless function is https://duolingo-serverless-endpoint
 
 last 3 endpoints need parameter 'lang' with allowed values 'ja','de','fr','es' 
 
+
+![Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von Kopie von NGU-Rp com](https://github.com/user-attachments/assets/b804bf00-c740-4552-b3b9-e96e4d5a6ccb)
+
 ## Disclaimer
 All the assets like lottie animations and question and answer JSON file data used here are taken from hours of network monitoring and manual inspection, from the original website. All the copyright for those assets goes to the respective website. Data will be saved on external servers and cannot be deleted.
 License from Nexus-Experion-Team so we could modify & port it: https://github.com/Nexus-Experion/duolingo-clone/blob/master/license.md
